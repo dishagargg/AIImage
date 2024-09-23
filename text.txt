@@ -1,0 +1,5 @@
+1) for frontend it is like React
+2) Axios for API
+3) backend we have done with Node.js and express.
+4) for database MongoDB.
+5) we will generating  image through using "Ai Dall.E model" and "open Ai API" 
